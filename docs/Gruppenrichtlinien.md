@@ -10,6 +10,13 @@ Verwaltung und Konfiguration von Computern und Benutzern über Gruppenrichtlinie
 - Windows 11
 - VirtualBox
 
+## Verwendete Werkzeuge
+
+- Gruppenrichtlinienverwaltung (GPMC)
+- Server-Manager
+- gpupdate
+- gpresult
+
 ## Aufgabe
 
 Erstellung und Konfiguration einer Gruppenrichtlinie für die Active-Directory-Domäne.
@@ -20,7 +27,7 @@ Erstellung und Konfiguration einer Gruppenrichtlinie für die Active-Directory-D
 - Richtlinie mit einer Organisationseinheit (OU) verknüpft
 - Richtlinieneinstellungen konfiguriert
 - Anwendung der Richtlinie mit gpupdate überprüft
-- Ergebnis auf dem Client kontrolliert
+- Ergebnis mit gpresult kontrolliert
 
 ## Ergebnis
 
@@ -28,4 +35,4 @@ Die Gruppenrichtlinie wurde erfolgreich angewendet und die konfigurierten Einste
 
 ## Erkenntnisse
 
-Gruppenrichtlinien ermöglichen die zentrale Verwaltung von Benutzern und Computern und sorgen für einheitliche Sicherheits- und Systemeinstellungen.
+Gruppenrichtlinien ermöglichen die zentrale Verwaltung von Benutzern und Computern sowie die einheitliche Umsetzung von Sicherheits- und Systemeinstellungen.
