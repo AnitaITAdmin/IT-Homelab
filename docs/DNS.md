@@ -17,14 +17,14 @@ Installation und Konfiguration des DNS-Servers als Bestandteil der Active-Direct
 ## Durchführung
 
 - Überprüfung der DNS-Serverkonfiguration
-- Kontrolle der Forward-Lookup-Zone
+- Überprüfung der Forward-Lookup-Zone
 - Erstellung und Überprüfung von DNS-Einträgen
 - Namensauflösung mit nslookup getestet
 - Erreichbarkeit mit ping überprüft
 
 ## Ergebnis
 
-Die Namensauflösung innerhalb der Domäne funktioniert zuverlässig. Clients und Server können sich gegenseitig über DNS auflösen.
+Die Namensauflösung innerhalb der Domäne funktioniert zuverlässig. Clients und Server können über DNS erfolgreich aufgelöst werden.
 
 ## Erkenntnisse
 
