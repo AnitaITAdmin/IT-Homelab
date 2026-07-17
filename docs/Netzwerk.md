@@ -26,7 +26,7 @@ Konfiguration und Überprüfung der grundlegenden Netzwerkkommunikation innerhal
 - IP-Konfiguration überprüft
 - Netzwerkerreichbarkeit mit ping getestet
 - DNS-Namensauflösung mit nslookup überprüft
-- Netzwerkeinstellungen mit ipconfig kontrolliert
+- IPv4-Konfiguration mit ipconfig überprüft
 - Verbindung zum Domänencontroller getestet
 
 ## Ergebnis
