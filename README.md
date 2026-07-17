@@ -1,50 +1,18 @@
 # IT-Homelab
 
-Dieses Repository dokumentiert meine praktische Testumgebung im Bereich der IT-Systemadministration.
+Dieses Repository enthält die technische Dokumentation meiner Homelab-Umgebung im Bereich der IT-Systemadministration.
 
-Der Schwerpunkt liegt auf Windows Server, Active Directory, Microsoft 365 sowie der Administration moderner Windows-Infrastrukturen.
-
-Alle Konfigurationen wurden eigenständig geplant, umgesetzt und dokumentiert.
-
----
-
-## Technologien
-
-- Windows Server 2022
-- Windows 11
-- Active Directory
-- DNS
-- DHCP
-- Gruppenrichtlinien (GPO)
-- Dateiserver
-- NTFS-Berechtigungen
-- Microsoft 365
-- Exchange Online
-- Microsoft Entra ID
-- PowerShell
-- VirtualBox
-
----
+Der Schwerpunkt liegt auf Windows Server, Active Directory, Microsoft 365 sowie der Administration von Windows-Clients und Netzwerken.
 
 ## Dokumentation
 
-Die technische Dokumentation ist nach Themen gegliedert.
-
-- Active Directory
-- DNS
-- DHCP
-- Gruppenrichtlinien (GPO)
-- Benutzerverwaltung
-- Dateiserver & NTFS-Berechtigungen
-- Microsoft 365
-- Windows-Client
-- Netzwerk
-- PowerShell
-
----
-
-## Ziel
-
-Ziel dieses Homelabs ist der Aufbau einer praxisnahen Windows-Testumgebung zur Vertiefung meiner Kenntnisse im Bereich der IT-Systemadministration.
-
-Alle Konfigurationen werden nachvollziehbar dokumentiert und kontinuierlich erweitert.
+- [Active Directory](docs/Active-Directory.md)
+- [DNS](docs/DNS.md)
+- [DHCP](docs/DHCP.md)
+- [Gruppenrichtlinien (GPO)](docs/Gruppenrichtlinien.md)
+- [Benutzerverwaltung](docs/Benutzerverwaltung.md)
+- [Dateiserver & NTFS-Berechtigungen](docs/Dateiserver.md)
+- [Windows-Client](docs/Windows-Client.md)
+- [Netzwerk](docs/Netzwerk.md)
+- [Microsoft 365](docs/Microsoft365.md)
+- [PowerShell](docs/PowerShell.md)
