@@ -25,13 +25,13 @@ Erstellung und Konfiguration einer Gruppenrichtlinie für die Active-Directory-D
 
 - Neue Gruppenrichtlinie erstellt
 - Richtlinie mit einer Organisationseinheit (OU) verknüpft
-- Richtlinieneinstellungen konfiguriert
+- Gruppenrichtlinieneinstellungen konfiguriert
 - Anwendung der Richtlinie mit gpupdate überprüft
 - Ergebnis mit gpresult kontrolliert
 
 ## Ergebnis
 
-Die Gruppenrichtlinie wurde erfolgreich angewendet und die konfigurierten Einstellungen wurden auf den Client übernommen.
+Die Gruppenrichtlinie wurde erfolgreich angewendet. Die konfigurierten Einstellungen wurden auf dem Client erfolgreich übernommen.
 
 ## Erkenntnisse
 
