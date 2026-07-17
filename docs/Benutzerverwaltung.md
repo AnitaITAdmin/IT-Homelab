@@ -2,7 +2,7 @@
 
 ## Ziel
 
-Verwaltung von Benutzerkonten und Sicherheitsgruppen innerhalb einer Active-Directory-Domäne.
+Verwaltung von Benutzerkonten, Sicherheitsgruppen und Organisationseinheiten innerhalb einer Active-Directory-Domäne.
 
 ## Testumgebung
 
@@ -21,15 +21,15 @@ Erstellung und Verwaltung von Benutzerkonten sowie Organisation der Zugriffsbere
 
 ## Durchführung
 
-- Benutzerkonten erstellt
 - Organisationseinheiten (OU) eingerichtet
+- Benutzerkonten erstellt
 - Sicherheitsgruppen erstellt
 - Benutzer den entsprechenden Gruppen zugewiesen
 - Gruppenmitgliedschaften überprüft
 
 ## Ergebnis
 
-Die Benutzerverwaltung wurde erfolgreich eingerichtet. Zugriffsrechte können zentral über Sicherheitsgruppen verwaltet werden.
+Benutzerkonten und Sicherheitsgruppen wurden erfolgreich eingerichtet. Zugriffsrechte können zentral über Sicherheitsgruppen verwaltet werden.
 
 ## Erkenntnisse
 
