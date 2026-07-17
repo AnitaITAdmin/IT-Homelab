@@ -12,7 +12,7 @@ Aufbau einer Active-Directory-Domäne für eine Windows-Testumgebung.
 
 ## Aufgabe
 
-Installation und Konfiguration der Active Directory Domain Services (AD DS) sowie Bereitstellung einer neuen Active-Directory-Domäne.
+Installation und Konfiguration der Active Directory Domain Services (AD DS) sowie Einrichtung einer neuen Active-Directory-Domäne.
 
 ## Durchführung
 
