@@ -46,7 +46,7 @@ Einrichtung einer Microsoft-365-Umgebung einschließlich Benutzerverwaltung, Gru
 
 - Teams und Kanäle erstellt
 - Benutzer hinzugefügt
-- Zusammenarbeit getestet
+- Zugriff auf Teams und Kanäle überprüft
 
 ## Ergebnis
 
