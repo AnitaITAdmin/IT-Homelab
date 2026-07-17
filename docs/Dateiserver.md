@@ -22,7 +22,7 @@ Freigabe eines Ordners im Netzwerk sowie Konfiguration von Freigabe- und NTFS-Be
 
 ## Durchführung
 
-- Freigegebenen Ordner erstellt
+- Ordner erstellt und im Netzwerk freigegeben
 - Netzwerkfreigabe konfiguriert
 - NTFS-Berechtigungen eingerichtet
 - Sicherheitsgruppen für den Zugriff verwendet
@@ -30,7 +30,7 @@ Freigabe eines Ordners im Netzwerk sowie Konfiguration von Freigabe- und NTFS-Be
 
 ## Ergebnis
 
-Der Zugriff auf den freigegebenen Ordner funktioniert entsprechend den konfigurierten Berechtigungen. Benutzer erhalten ausschließlich die vorgesehenen Zugriffsrechte.
+Der Zugriff auf den freigegebenen Ordner erfolgt entsprechend den konfigurierten Freigabe- und NTFS-Berechtigungen. Benutzer erhalten ausschließlich die vorgesehenen Zugriffsrechte.
 
 ## Erkenntnisse
 
