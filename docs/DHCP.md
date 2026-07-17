@@ -19,12 +19,12 @@ Installation und Konfiguration des DHCP-Servers sowie Erstellung eines IPv4-Bere
 - Installation der DHCP-Serverrolle
 - Autorisierung des DHCP-Servers in Active Directory
 - Erstellung eines IPv4-Adressbereichs
-- Konfiguration von Gateway und DNS-Server
+- Konfiguration von Standardgateway und DNS-Server
 - Überprüfung der automatischen IP-Adressvergabe
 
 ## Ergebnis
 
-Clients erhalten ihre Netzwerkkonfiguration automatisch über den DHCP-Server und können problemlos mit der Domäne kommunizieren.
+Clients erhalten ihre Netzwerkkonfiguration automatisch über den DHCP-Server. Die Kommunikation innerhalb der Domäne funktioniert erfolgreich.
 
 ## Erkenntnisse
 
